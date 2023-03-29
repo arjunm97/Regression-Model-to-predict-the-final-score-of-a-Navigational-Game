@@ -8,6 +8,7 @@ The aim of the project was to find insights into player’s performance in the c
 After conducting exploratory data analysis on the data a regression model was built to predict the final score of a player based on the performance in the 1st round of the game.
 A prediction model was also built using a decision tree and the results were compared to the regression model.
 
+Tools,Techniques,Frameworks used:
 
 This is the link to the dataset. https://osf.io/7nqw6/?view_only=6af022f2a7064d4d8a7e586913a1f157
 
